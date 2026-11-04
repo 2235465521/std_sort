@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+国标分类状态.txt
+续爬点.txt.tmp
